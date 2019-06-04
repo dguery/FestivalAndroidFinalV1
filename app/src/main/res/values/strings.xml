@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FestivalAndroid</string>
+    <string name="detail">Détail de la représentation</string>
+    <string name="nom">Nom du groupe</string>
+    <string name="dgroupe">TextView</string>
+    <string name="lieu">Lieu</string>
+    <string name="dlieu">TextView</string>
+    <string name="date">Date</string>
+    <string name="ddate">TextView</string>
+    <string name="debut">Heure de debut</string>
+    <string name="ddebut">TextView</string>
+    <string name="fin">Heure de fin</string>
+    <string name="dfin">TextView</string>
+    <string name="btnListe">Liste des representations</string>
+    <string name="tewtViewDate">Date de la représentation :</string>
+    <string name="donneDate">TextView</string>
+    <string name="tewtViewGroupe">Nom du groupe :</string>
+    <string name="donneeGroupe">TextView</string>
+    <string name="tewtViewLieu">Lieu de la représentation :</string>
+    <string name="donneeLieu">TextView</string>
+    <string name="tewtViewDebut">Heure du début de la représentation :</string>
+    <string name="donneeDebut">TextView</string>
+    <string name="tewtViewFin">Heure de fin de la représentation :</string>
+    <string name="donneeFin">TextView</string>
+
+</resources>
